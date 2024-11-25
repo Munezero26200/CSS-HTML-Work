@@ -1,0 +1,57 @@
+.outer{
+    width: 400px;
+    background-color:  #fcf7f1;
+}
+.vancard{
+    background-color: #f5f5f5;
+    border:0;
+    width: 100px;
+}
+img{
+    border-radius: 5px;
+    width:300px;
+}
+.simple{
+    border: none;
+    width: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 250px;
+    margin-top: 20px;
+    background-color: #c67758;
+    font-size: white;
+    color: white;
+}
+h2{
+    text-align: left;
+    margin-left: 50px;
+}
+p{
+    text-align: left;
+    margin-left: 50px;
+}
+.rent{
+    border: none;
+    width: 300px;
+    padding: 5px;
+    background-color: #ff8c39;
+    color:white;
+
+}
+.ftr{
+    height: 40px;
+    text-align:center;
+    background-color: #252525;
+    color: #a9a9a9;
+    width: 400px;
+    margin: auto;
+    margin-top:30px;
+
+}
+.hashtag{
+    font-weight: 700;
+}
+a{
+   margin-right:200px;
+}
+
